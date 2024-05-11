@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wazito eCommerce</string>
+    <string name="title_activity_insertactivity">Insertactivity</string>
+    <string name="title_activity_detailsactivity">Detailsactivity</string>
+</resources>
